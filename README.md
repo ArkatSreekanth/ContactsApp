@@ -1,6 +1,6 @@
-# On Demand Session
+###Set up instructions
 
-- Third-party packages
-  - uuid
-- Adding New Item to the List in State
-- Updating an Item of the List in State
+<details>
+  -- Install dependencies npm install
+  -- To run app npm start
+</details>
